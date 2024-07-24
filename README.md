@@ -103,10 +103,11 @@ D - The principle of performance is not applied.
 
 ```
 Answer here
-```
 5A: B, The principle of observability is not applied.
 
 5B: 
+
+```
 
 ---
 
