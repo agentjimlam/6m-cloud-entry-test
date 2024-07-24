@@ -35,6 +35,11 @@ What is the Bash command to discover the IP Address of `www.skillsunion.com`?
 
 ```sh
 # Answer here
+nslookup www.skillsunion.com
+
+<!-- ifconfig does not perform DNS lookups or provide information about remote IP addresses. -->
+
+
 ```
 
 ---
@@ -45,6 +50,12 @@ What is the command to copy a directory from `~/my_project` to `/etc/projects`?
 
 ```sh
 # Answer here
+
+Use 'cp' command. eg. cp -R Src_directory Dest_directory
+cp -r ~/my_project /etc/projects
+
+https://www.geeksforgeeks.org/cp-command-linux-examples/
+
 ```
 ---
 
@@ -93,6 +104,9 @@ D - The principle of performance is not applied.
 ```
 Answer here
 ```
+5A: B, The principle of observability is not applied.
+
+5B: 
 
 ---
 
